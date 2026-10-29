@@ -15,8 +15,8 @@ Primeros ejercicios de Python del ciclo de ASIR: programas de consola que trabaj
 ## Cómo ejecutarlos
 
 ```bash
-git clone https://github.com/ConstructorQP/Python-1
-cd Python-1
+git clone https://github.com/ConstructorQP/python-fundamentos
+cd python-fundamentos
 python 006-Caculadoradeiva.py
 ```
 
@@ -24,4 +24,4 @@ Solo necesitas Python 3; no hay dependencias externas.
 
 ## Siguiente nivel
 
-La continuación, con funciones, Flask, JSON y SQLite, está en [Python-2](https://github.com/ConstructorQP/Python-2).
+La continuación, con funciones, Flask, JSON y SQLite, está en [python-flask-web](https://github.com/ConstructorQP/python-flask-web).
